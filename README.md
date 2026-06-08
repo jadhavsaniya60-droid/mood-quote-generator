@@ -15,3 +15,5 @@ Enter your mood (happy, sad, motivated, stressed): happy
 
 Quote:
 Keep smiling, brighter days are ahead.
+#live Demo
+https://mood-sparkle-89.lovable.app
