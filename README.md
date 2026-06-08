@@ -9,4 +9,9 @@ A beginner-friendly Python project that displays motivational quotes based on th
 
 ## Technologies
 - Python
-A python  application that generates motivational and inspirational quotes based on user's mood.
+## Example
+
+Enter your mood (happy, sad, motivated, stressed): happy
+
+Quote:
+Keep smiling, brighter days are ahead.
